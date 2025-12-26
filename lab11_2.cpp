@@ -70,7 +70,6 @@ int main(){
 	}
 	cout << "------------ Turn end -------------------\n\n";
 	
-	
 	cout << "---------YUGI'S TURN, DRAW!!!------------\n";
 	cout << "Yugi's cards: " << cardNames[yugiCards[0]] << " " <<cardNames[yugiCards[1]]<< "\n";
 	yugiScore = calScore(yugiCards[0],yugiCards[1],yugiCards[2]);
